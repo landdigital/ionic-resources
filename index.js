@@ -43,6 +43,8 @@ var getPlatforms = function () {
     icons : [
       { name : 'icon-20.png',       size : 20  },
       { name : 'icon-24.png',       size : 24  },
+      { name : 'icon-24@2x.png',    size : 48  },
+      { name : 'icon-24@3x.png',    size : 72  },
       { name : 'icon-40.png',       size : 40  },
       { name : 'icon-40@2x.png',    size : 80  },
       { name : 'icon-40@3x.png',    size : 120 },
